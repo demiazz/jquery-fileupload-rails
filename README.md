@@ -40,12 +40,6 @@ The basic setup only includes the following files:
     //= require jquery-fileupload/jquery.iframe-transport
     //= require jquery-fileupload/jquery.fileupload
 
-## Using the stylesheet
-
-Require the stylesheet file to app/assets/stylesheets/application.css
-
-    *= require jquery.fileupload-ui
-
 ## Usign the stylesheet
 
 Require the stylesheet file to app/assets/stylesheets/application.css
